@@ -14,6 +14,6 @@ var c = 20
 print(a+b+c)
 print(a-b-c)
 print(a*b*c)
-print(a/b)
+print("a / b = ",a/b)
 
 
